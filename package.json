@@ -1,0 +1,23 @@
+{
+  "name": "reactgraph",
+  "version": "1.0.0",
+  "description": "morePractice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tduncan14/reactGraph.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tduncan14/reactGraph/issues"
+  },
+  "homepage": "https://github.com/Tduncan14/reactGraph#readme",
+  "dependencies": {
+    "graphql": "^14.5.8"
+  }
+}
